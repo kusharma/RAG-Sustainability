@@ -1,5 +1,8 @@
 # RAG with LangChain: Streamlining Sustainability Reporting
 
+![Sustainability Report](images/SustainablePlanet.png)
+
+
 ## Overview
 This project demonstrates the use of **LangChain**, **OpenAI**, and **ChromaDB** to streamline sustainability reporting workflows. The focus is on extracting, processing, and generating insights from dense sustainability reports such as those from **SwissRe** and **BlackRock**. By leveraging **Retrieval-Augmented Generation (RAG)** and advanced query techniques, this project enhances the efficiency of handling large sustainability reports and providing clear, actionable insights.
 
@@ -17,6 +20,7 @@ This project demonstrates the use of **LangChain**, **OpenAI**, and **ChromaDB**
 - **PyMuPDF**: Used for extracting text from PDFs of sustainability reports.
 
 ## Query Transformation Techniques
+![RAG technqiues for sustainability reporting](images/RAGFromScratch.png)
 
 Query transformations are a set of approaches focused on re-writing and/or modifying questions for retrieval.
 
