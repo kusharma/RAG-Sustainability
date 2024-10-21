@@ -21,6 +21,7 @@ This project uses **LangChain**, **OpenAI**, and ChromaDB to streamline sustaina
 
 ## Query Transformation Techniques
 ![RAG technqiues for sustainability reporting](images/RAGFromScratch.png)
+*Image taken from Lance Martin's RAG-from-scratch tutorials.*
 
 Query transformations are a set of approaches focused on re-writing and/or modifying questions for retrieval.
 
