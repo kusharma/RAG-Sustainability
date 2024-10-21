@@ -4,7 +4,7 @@
 
 
 ## Overview
-This project demonstrates the use of **LangChain**, **OpenAI**, and **ChromaDB** to streamline sustainability reporting workflows. The focus is on extracting, processing, and generating insights from dense sustainability reports such as those from **SwissRe** and **BlackRock**. By leveraging **Retrieval-Augmented Generation (RAG)** and advanced query techniques, this project enhances the efficiency of handling large sustainability reports and providing clear, actionable insights.
+This project uses **LangChain**, **OpenAI**, and ChromaDB to streamline sustainability reporting by extracting and processing insights from reports like those from **SwissRe** and **BlackRock**. By leveraging RAG and advanced query techniques, it enhances efficiency and delivers actionable insights from large, complex reports.
 
 ## Features
 - **PDF Extraction with PyMuPDF**: Efficiently extract text from sustainability reports in PDF format.
